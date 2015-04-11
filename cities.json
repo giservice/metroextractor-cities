@@ -1494,6 +1494,14 @@
                         "right": "1.779"
                     }
                 },
+                "iblei_italy": {
+                    "bbox": {
+                        "top": "37.369",
+                        "left": "14.595",
+                        "bottom": "36.646",
+                        "right": "15.556"
+                    }
+                },
                 "winterthur_switzerland": {
                     "bbox": {
                         "top": "47.535",
